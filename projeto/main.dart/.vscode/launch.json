@@ -1,0 +1,30 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Dart 01",
+            "type": "dart",
+            "request": "launch",
+            "program": "01.dart"
+        },
+        {
+            "name": "Dart 02",
+            "request": "launch",
+            "type": "dart",
+            "program": "02.dart"
+        },
+        {
+            "name": "Dart 03",
+            "request": "launch",
+            "type": "dart",
+            "program": "03.dart"
+        }, 
+        {
+            "name": "Dart 04",
+            "request": "launch",
+            "type": "dart",
+            "program": "04.dart"
+        }
+        
+    ]
+}
